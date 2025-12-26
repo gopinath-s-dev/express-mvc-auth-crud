@@ -1,0 +1,31 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "Express Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Gopi",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.17.1",
+    "bcryptjs": "^3.0.3",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "lru-cache": "^11.2.4",
+    "mongodb": "^7.0.0",
+    "nodemailer": "^7.0.12",
+    "redis": "^5.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

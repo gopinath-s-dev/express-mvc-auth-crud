@@ -33,7 +33,7 @@ A modern Express.js backend application built using MVC architecture with secure
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/express-mvc-auth-crud.git
+git clone https://github.com/gopinath-s-dev/express-mvc-auth-crud
 cd express-mvc-auth-crud
 npm install
 ```
